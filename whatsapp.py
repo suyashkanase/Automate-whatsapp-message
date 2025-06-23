@@ -1,3 +1,4 @@
 import pywhatkit as pwk
 
-pwk.sendwhatmsg('+918237069295','Hello suyash',9,45)
+#number,message,hours,minuites
+pwk.sendwhatmsg('+91xxxxxxxxx5','Hello suyash',9,45)
